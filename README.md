@@ -16,10 +16,6 @@ Folder: /Password-Generator
 Displays weather information using simple sample data.
 Folder: /Weather-App
 
-#Technologies Used
-- Python 3
-- GitHub (for version control)
-
 #Internship Details
 Organization: Oasis Infobyte  
 Domain: Python Programming  
